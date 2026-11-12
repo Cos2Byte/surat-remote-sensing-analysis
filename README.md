@@ -163,9 +163,9 @@ The following map presents the land-use/land-cover classification of the selecte
 
 **Land-use/Land-cover Classification Map**
 
-[View the full-resolution map](maps/surat_land_cover_classification_map.pdf)
+[View the full-resolution map](maps/surat_land_cover_classification_map.png)
 
-Author
+## Author
 
 Kaustubh Nagrare
 

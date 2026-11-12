@@ -157,6 +157,14 @@ GIS-based digitisation and visual interpretation
 
 Large satellite imagery, raster datasets and geodatabases may be maintained separately due to their file sizes. Their sources and access information will be documented where available.
 
+## Project Map
+
+The following map presents the land-use/land-cover classification of the selected study area in Surat, Gujarat, developed through visual interpretation and manual digitisation of Landsat 9 imagery.
+
+**Land-use/Land-cover Classification Map**
+
+[View the full-resolution map](maps/surat_land_cover_classification_map.pdf)
+
 Author
 
 Kaustubh Nagrare
